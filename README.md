@@ -4,7 +4,7 @@
 **ningpop/ningpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ningpop_/)](https://www.instagram.com/ningpop_/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fningpop&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fningpop&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23ed92f7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 👨‍💻 Student Developers Interested in Web and Blockchain
 - 📝 Department of Computer Software Engineering in SCH Univ.

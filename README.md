@@ -9,6 +9,8 @@
 - 👨‍💻 Student Developers Interested in Web and Blockchain
 - 📝 Department of Computer Software Engineering in SCH Univ.
 - 👨‍👩‍👧‍👦 **Likelion at SCH** 7th Student(2019), 8th Representative Organizer(2020) 🦁
+- 👨‍👩‍👧‍👦 **Google DSC in SCH** 2th Member(2020) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
 
 <br>
 

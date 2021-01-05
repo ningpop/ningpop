@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ningpop_/)](https://www.instagram.com/ningpop_/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fningpop&count_bg=%23D8A0F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 👨‍💻 Student Developers Interested in Web and Blockchain
+- 👨‍💻 Student Developer Interested in Web and Blockchain
 - 📝 Department of Computer Software Engineering in SCH Univ.
 - 👨‍👩‍👧‍👦 **Likelion at SCH** 7th Student(2019), 8th Representative Organizer(2020) 🦁
 - 👨‍👩‍👧‍👦 **Google DSC in SCH** 2th Member(2020) 

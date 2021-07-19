@@ -11,6 +11,8 @@
 - 👨‍👩‍👧‍👦 **Likelion at SCH** 7th Student(2019), 8th Representative Organizer(2020) 🦁
 - 👨‍👩‍👧‍👦 **Google DSC in SCH** 2nd Member(2020.11 ~ 2021.06) 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+- 👨‍👩‍👧‍👦 **Naver Connect Foun. boostcamp Web/Mobile 6th** iOS Part Member(2021.07 ~ ) 
+<code><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1626416868/noticon/ikaacptqt1lbwhfcg8f2.png"></code>
 - 😃 Introduce Myself [Notion link](https://www.notion.so/ningpop/aa39cfee0d664cca80b5876da3cc0184)
 <br>
 

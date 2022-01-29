@@ -18,7 +18,7 @@
 <code><a href="https://www.unit.center/upf"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a2b680f-0826-4529-b9c1-4e4dc244392f%2FUPF2021SS_logo.png&blockId=e3937290-f945-4dcf-a76b-b539a281aaaf&width=256"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**NAVER Connect Foun. boostcamp Web/Mobile 6th Challenge** iOS Part Camper (2021.07 ~ 2021.08) 
 <code><a href="https://boostcamp.connect.or.kr/"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1626416868/noticon/ikaacptqt1lbwhfcg8f2.png"> Info</a></code>
-- 👨‍👩‍👧‍👦&emsp;**SOPT 29th** iOS Part Member (2021.09 ~ ) 
+- 👨‍👩‍👧‍👦&emsp;**SOPT 29th** iOS Part Member (2021.09 ~ 2022.02) 
 <code><a href="http://sopt.org/wp/"><img height="20" src="http://sopt.org/wp/wp-content/uploads/2014/01/main_logo-1.png"> Info</a></code>
 <br>
 

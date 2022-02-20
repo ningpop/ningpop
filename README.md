@@ -9,7 +9,7 @@
 
 - 👨‍💻&emsp;Student Developer Interested in Web, iOS and Blockchain
 - 👨‍🎓&emsp;Graduated Department of Computer Software Engineering in SCH Univ.
-- 😃&emsp;Introduce Myself <code>[Notion link](https://www.notion.so/ningpop/aa39cfee0d664cca80b5876da3cc0184)</code><br><br>
+- 😃&emsp;Introduce Myself <code>[Notion link](https://ningpop.notion.site/aa39cfee0d664cca80b5876da3cc0184)</code><br><br>
 
 **Activities**
 - 👨‍👩‍👧‍👦&emsp;**Likelion at SCH** 7th Student (2019), 8th Representative Organizer (2020) <code><a href="https://www.likelion.net/"><img height="20" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>

@@ -25,6 +25,10 @@
 <code><a href="https://www.unit.center/upf"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a2b680f-0826-4529-b9c1-4e4dc244392f%2FUPF2021SS_logo.png&blockId=e3937290-f945-4dcf-a76b-b539a281aaaf&width=256"> Info</a></code>
 <br>
 
+**Contribution**
+- [애플 개발자 문서 한글 번역 (Fix typo)](https://github.com/ESnark/sagwa/pull/43)
+<br>
+
 **Languages, Framework and Tool**
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>

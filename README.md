@@ -13,7 +13,7 @@
 
 **Activities**
 - 👨‍👩‍👧‍👦&emsp;**Likelion at SCH** 7th Student (2019), 8th Representative Organizer (2020) <code><a href="https://www.likelion.net/"><img height="20" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
-- 👨‍👩‍👧‍👦&emsp;**Google DSC in SCH** 2nd Core Member (2020.11 ~ 2021.06) 
+- 👨‍👩‍👧‍👦&emsp;**GDSC in SCH** 2nd Core Member (2020.11 ~ 2021.06) 
 <code><a href="https://gdsc.community.dev/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**UNIT - UPF 2021SS** Member - *Team "역수직구조"* (2021.03 ~ 2021.06) 
 <code><a href="https://www.unit.center/upf"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a2b680f-0826-4529-b9c1-4e4dc244392f%2FUPF2021SS_logo.png&blockId=e3937290-f945-4dcf-a76b-b539a281aaaf&width=256"> Info</a></code>

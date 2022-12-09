@@ -34,15 +34,13 @@
 **Languages, Framework and Tool**
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 **Studing Now**
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>

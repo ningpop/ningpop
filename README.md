@@ -31,16 +31,17 @@
 - [애플 개발자 문서 한글 번역 (Fix typo)](https://github.com/ESnark/sagwa/pull/43)
 <br>
 
-**Languages, Framework and Tool**
+**Languages, Framework and Tools**
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
-**Studing Now**
+**Interest**
 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>

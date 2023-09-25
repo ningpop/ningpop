@@ -33,10 +33,10 @@
 
 **Languages, Framework and Tools**
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 **Interest**

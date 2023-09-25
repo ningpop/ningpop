@@ -22,11 +22,11 @@
 - 👨‍👩‍👧‍👦&emsp;**SOPT 29th** iOS Part YB Member (2021.09 ~ 2022.01) 
 <code><a href="https://sopt.org"><img height="20" src="https://sopt.org/favicon-96x96.png"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**UNIT - UNITHON 8th** Staff (2022.03.04 ~ 2022.03.06) 
-<code><a href="https://www.unit.center/unithon"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8705302b-5933-451a-b471-fe527ed946a7%2FU08_Profile.png&blockId=33b1a900-f691-4583-b460-70f91a521b13&width=256"> Info</a></code>
+<code><a href="https://www.unit.center/unithon"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695641245/noticon/mzfnvzygcta9dev1twhc.png"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**UPF 2022SS** Organizer (2022.02 ~ 2022.07) 
 <code><a href="https://www.unit.center/upf"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a2b680f-0826-4529-b9c1-4e4dc244392f%2FUPF2021SS_logo.png&blockId=e3937290-f945-4dcf-a76b-b539a281aaaf&width=256"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**UNIT - UNITHON 10th** Staff (2023.09.23 ~ 2023.09.24) 
-<code><a href="https://www.unit.center/unithon"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8705302b-5933-451a-b471-fe527ed946a7%2FU08_Profile.png&blockId=33b1a900-f691-4583-b460-70f91a521b13&width=256"> Info</a></code>
+<code><a href="https://www.unit.center/unithon"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695641275/noticon/nweixfqmv23orvo4fpon.png"> Info</a></code>
 <br>
 
 **Contribution**

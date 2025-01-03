@@ -27,6 +27,8 @@
 <code><a href="https://www.unit.center/upf"><img height="20" src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a2b680f-0826-4529-b9c1-4e4dc244392f%2FUPF2021SS_logo.png&blockId=e3937290-f945-4dcf-a76b-b539a281aaaf&width=256"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**UNIT - UNITHON 10th** Staff (2023.09.23 ~ 2023.09.24) 
 <code><a href="https://www.unit.center/unithon"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695641275/noticon/nweixfqmv23orvo4fpon.png"> Info</a></code>
+- 👨‍👩‍👧‍👦&emsp;**Nexters 25th** (2024.07.06 ~ 2024.08.24) 
+<code><a href="https://nexters.co.kr"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1735929842/noticon/ox1dmrlmfep1bv5ztkdo.png"> Info</a></code>
 <br>
 
 **Contribution**

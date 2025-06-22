@@ -28,6 +28,8 @@
 <code><a href="https://www.unit.center/unithon"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695641275/noticon/nweixfqmv23orvo4fpon.png"> Info</a></code>
 - 👨‍👩‍👧‍👦&emsp;**Nexters 25th** (2024.07.06 ~ 2024.08.24) 
 <code><a href="https://nexters.co.kr"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1735929842/noticon/ox1dmrlmfep1bv5ztkdo.png"> Info</a></code>
+- 👨‍👩‍👧‍👦&emsp;**Nexters 26th** (2025.01.04 ~ 2025.02.22) 
+<code><a href="https://nexters.co.kr"><img height="20" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1735929943/noticon/vgcx86nzhxj74i3frgml.png"> Info</a></code>
 <br>
 
 **Contribution**
